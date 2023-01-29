@@ -1,0 +1,15 @@
+D:\Biblioteca\Área de Trabalho\Escola\bin\Debug\net7.0\Escola.exe
+D:\Biblioteca\Área de Trabalho\Escola\bin\Debug\net7.0\Escola.deps.json
+D:\Biblioteca\Área de Trabalho\Escola\bin\Debug\net7.0\Escola.runtimeconfig.json
+D:\Biblioteca\Área de Trabalho\Escola\bin\Debug\net7.0\Escola.dll
+D:\Biblioteca\Área de Trabalho\Escola\bin\Debug\net7.0\Escola.pdb
+D:\Biblioteca\Área de Trabalho\Escola\obj\Debug\net7.0\Escola.csproj.AssemblyReference.cache
+D:\Biblioteca\Área de Trabalho\Escola\obj\Debug\net7.0\Escola.GeneratedMSBuildEditorConfig.editorconfig
+D:\Biblioteca\Área de Trabalho\Escola\obj\Debug\net7.0\Escola.AssemblyInfoInputs.cache
+D:\Biblioteca\Área de Trabalho\Escola\obj\Debug\net7.0\Escola.AssemblyInfo.cs
+D:\Biblioteca\Área de Trabalho\Escola\obj\Debug\net7.0\Escola.csproj.CoreCompileInputs.cache
+D:\Biblioteca\Área de Trabalho\Escola\obj\Debug\net7.0\Escola.dll
+D:\Biblioteca\Área de Trabalho\Escola\obj\Debug\net7.0\refint\Escola.dll
+D:\Biblioteca\Área de Trabalho\Escola\obj\Debug\net7.0\Escola.pdb
+D:\Biblioteca\Área de Trabalho\Escola\obj\Debug\net7.0\Escola.genruntimeconfig.cache
+D:\Biblioteca\Área de Trabalho\Escola\obj\Debug\net7.0\ref\Escola.dll
