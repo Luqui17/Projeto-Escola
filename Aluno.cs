@@ -9,7 +9,7 @@ namespace Escola
         public int Idade { get; set; }
         public Aluno()
         {
-            // this.Nome = nome;
+            
         }
         public override string ToString()
         {

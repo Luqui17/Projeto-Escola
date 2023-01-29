@@ -11,11 +11,11 @@ namespace Escola
             int opc;
             int id;
             Console.WriteLine("Escola do Lucas!");
-            try
+            while(start == true)
             {
-                while (start == true)
+                try
                 {
-                    Console.WriteLine("1 - CADASTRAR\n2 - LISTAR ALUNOS\n3 - EDITAR\n4 - EXCLUIR\n5 - FINALIZAR\nSELECIONE O OPERAÇÃO DESEJADA: ");
+                    Console.Write("1 - CADASTRAR\n2 - LISTAR ALUNOS\n3 - EDITAR\n4 - EXCLUIR\n5 - FINALIZAR\nSELECIONE O OPERAÇÃO DESEJADA: ");
                     opc = int.Parse(Console.ReadLine());
                     switch (opc)
                     {
@@ -36,14 +36,15 @@ namespace Escola
                         alunos.Remover(id);
                         break;
                         case 5: start = false;
+                        Console.Write("Encerrando...");
+                        Console.ReadLine();
                         break;
                     }
                 }
-            }
-            catch (System.Exception)
-            {
-                
-                throw;
+                catch (System.FormatException)
+                {
+                     Console.WriteLine("Opção inválida");
+                }
             }
         }
     }
